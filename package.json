@@ -1,7 +1,7 @@
 {
-  "name": "cd",
+  "name": "Pure CSS Slider",
   "version": "1.0.0",
-  "description": "",
+  "description": "Pure CSS Slider",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/ninanathalie/pure-css-slider.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Niña Nathalie",
+  "license": "GPLv3",
   "bugs": {
     "url": "https://github.com/ninanathalie/pure-css-slider/issues"
   },
